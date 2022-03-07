@@ -1,5 +1,7 @@
 # Plot.ly-Homework
 
+https://john-nas.github.io/Plot.ly-Homework/
+
 # Plot.ly Homework - Belly Button Biodiversity
 
 ![Bacteria by filterforge.com](Images/bacteria.jpg)
